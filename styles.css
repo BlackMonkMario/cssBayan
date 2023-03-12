@@ -1,0 +1,34 @@
+/* --- RESET STYLES START --- */
+html {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  border: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.body {
+  font-family: "lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #102746;
+}
+
+ul,
+ul li {
+  list-style: none;
+}
+
+/* --- RESET STYLES FINISH --- */
+
+/* --- MAIN STYLES START --- */
